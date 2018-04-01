@@ -1,4 +1,4 @@
-# Algorithm-Design-I
+# Algorithm Design-I
 References:
 
 1.The Algorithm Design Manual-By Steven S.Skiena
